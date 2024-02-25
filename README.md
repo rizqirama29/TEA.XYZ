@@ -1,2 +1,2 @@
 # tea.yaml
-OSS PROJECT FOR ta.yaml
+OSS PROJECT FOR tea.yaml
