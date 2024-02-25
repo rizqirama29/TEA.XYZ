@@ -1,2 +1,2 @@
-# TEA.XYZ
-OSS PROJECT FOR TEA.XYZ
+# tea.yaml
+OSS PROJECT FOR ta.yaml
